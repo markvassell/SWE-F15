@@ -13,8 +13,12 @@ int main( void )
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	jbekccSentence1();    
-	printf("\n\n");    
+	printf("\n\n");
+	dhart94Sentence1();    
+	printf("\n\n");      
 	    
+
+	dhart94Sentence2();     
 	jbekccSentence2();    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
