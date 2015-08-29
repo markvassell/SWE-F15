@@ -8,4 +8,7 @@ int bensSentence_FINAL();
 int jbekccSentence1();
 int jbekccSentence2();
 
+int jkdt2Sentence1();
+int jkdt2Sentence2();
+
 
