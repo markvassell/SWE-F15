@@ -75,3 +75,5 @@ dhart94.o: sentences/dhart94.c
 	
 jkdt2.o: sentences/jkdt2.c
 	$(CC) -c $<
+mdvy96.o: sentences/mdvy96.c
+	$(CC) -c $<
